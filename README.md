@@ -1,6 +1,6 @@
 **Hashmap project**
 
-**Installation: **
+**Installation:**
 
 Run npm Install
 TO start: npm run start
