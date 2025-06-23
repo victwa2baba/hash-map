@@ -1,4 +1,4 @@
-**Hashmap project**
+# **Hashmap project**
 
-**Installation:**
-npm Install
+## **Installation:**
+__run npm Install__
